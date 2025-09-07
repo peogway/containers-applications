@@ -1,0 +1,10 @@
+Script started on 2025-09-07 04:48:11+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="213" LINES="19"]
+[?2004h]0;beoo@beoo: /mnt/c/Users/duchu/fullstackOpen/part12/containers-applications[01;32mbeoo@beoo[00m:[01;34m/mnt/c/Users/duchu/fullstackOpen/part12/containers-applications[00m$ [7mdocker container run -it ubuntu bash[27mdocker container run -it ubuntu bash
+[?2004l[?2004h]0;root@44bfbd38fe71: /root@44bfbd38fe71:/# [7mmkdir -p /usr/src/app[27mmkdir -p /usr/src/app
+[?2004l[?2004h]0;root@44bfbd38fe71: /root@44bfbd38fe71:/# [7mtouch /usr/src/app/index.js[27mtouch /usr/src/app/index.js[6Pmkdir -p /usr/src/apptouch /usr/src/app/index.js
+[?2004l[?2004h]0;root@44bfbd38fe71: /root@44bfbd38fe71:/# [K[7mexit[27mexit
+[?2004lexit
+[?2004h]0;beoo@beoo: /mnt/c/Users/duchu/fullstackOpen/part12/containers-applications[01;32mbeoo@beoo[00m:[01;34m/mnt/c/Users/duchu/fullstackOpen/part12/containers-applications[00m$ exit[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2025-09-07 04:49:30+03:00 [COMMAND_EXIT_CODE="0"]
